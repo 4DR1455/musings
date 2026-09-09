@@ -19,7 +19,7 @@ But that misses something... Sometimes a person is not fully powerful over anoth
 
 <b><i><u>Note:</u></i></b> I will be switching between power and influence depending on how I need to use the word, but they mean the same to me in this writing.
 
-<b><i><u>Note 2:</u></i></b> From now on, if I refer to "First" and "Second", I am referring to the [[Power Quantification#Definition of power/influence/whatever you want to call it|definition]] I have provided.
+<b><i><u>Note 2:</u></i></b> From now on, if I refer to "First" and "Second", I am referring to the definition I have provided.
 
 ## Quantifying power relations
 So, as I want better precision than just the number of (forced or not) followers, I need to quantify how much power a person has over another... So, I'd need to count how many decisions are taken due to First's interests?
