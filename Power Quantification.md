@@ -9,10 +9,13 @@ The **influence of a person over another** is the capacity of the first person t
 <b><i><u>Note 2:</u></i></b> This definition is based on various [definitions](https://dictionary.cambridge.org/dictionary/english/power) provided by the Cambridge Dictionary.
 
 ## First thoughts
-How could I quantify something this abstract? It is not like I can use an "influmeter" (hahaha, like a thermometer -> influmeter. I know it is a very bad joke, my apologies). So my first approach is to assign a binary value if the condition is met; this way, the more dominant relations a person has, the more powerful they are... Therefore, power might be quantified as...
+How could I quantify something this abstract? It is not like I can use an "influmeter" (hahaha, like a thermometer -> influmeter. I know it is a very bad joke, my apologies). So my first approach is to assign a binary value if the condition is met; this way, the more dominant relations a person has, the more powerful they are. 
+
+## Base of the formula
+That sounds good, I mean... a person who can move two people (themselves + another) has more power than one who can't... Therefore, power might be quantified as...
 
 $$
-PowerOfFirst = \sum(Seconds)
+\text{PowerOfFirst} = \sum(\text{Seconds})
 $$
 
 But that misses something... Sometimes a person is not fully powerful over another. What happens if First can force Second into doing some things in specific scenarios, but can't force them to do just anything in any scenario?! Is that still called power? So a question comes to mind... Can I quantify power between individuals?
@@ -21,22 +24,83 @@ But that misses something... Sometimes a person is not fully powerful over anoth
 
 <b><i><u>Note 2:</u></i></b> From now on, if I refer to "First" and "Second", I am referring to the definition I have provided.
 
-## Quantifying power relations
-So, as I want better precision than just the number of (forced or not) followers, I need to quantify how much power a person has over another... So, I'd need to count how many decisions are taken due to First's interests?
+## Quantifying power inside relations
+So, as I want better precision than just the number of (forced or not) followers, I need to quantify how much power a person has over another... So, I'd need to count how many decisions are taken due to First's interests? That makes sense to me because when someone exercises power over another, they don't need to be present; just the thought of them would make the Second act in favor of First, and that would be a decision made due to First. So the power of First over Second is...
 
 $$
-PowerOfFirstOverSecond = \sum(Second'sDecisionsDueToFirst)
+\text{PowerOfFirstOverSecond} = \sum(\text{Second's Decisions Due To First})
 $$
 
-Therefore, power might be quantified as... 
+## Weighted relations formula
+Now, I can complement the previous absolute power formula by giving a score to each relation... Therefore, power might be quantified as... 
 
 $$
-P = \sum_{S}(\sum{D})
+P = \sum_{S}(\sum{D_{FS}})
 $$
 
 Where:
-- P = Power of First.
-- S = Iterator through Seconds related to First.
-- D = Decisions taken by S due to First's interests.
+- $P$ = Absolute power of First.
+- $S$ = Iterator through Seconds related to First.
+- $D_{FS}$ = Decisions taken by $S$ due to First's interests.
 
-But... What happens when First can't influence Second's decisions but rather their image, prestige, or whatever else is not directly attached to Second's decisions? Who is in power now? How much power is being exercised? Is counting Second's decisions due to First's interests enough?
+But... What happens when First can't influence Second's decisions but rather their image, prestige, or whatever else is not directly attached to Second's decisions? Who is in power now? How much power is being exercised? Is counting Second's decisions due to First's interests enough as a quantifying reference? I don't know... I guess it is, but I can't argue why... I can't argue why not either... I am at a dead end. Is someone reading? Just in case there is... What do you think?
+
+Anyway, we have other problems to assess... Because these formulas assume every relation is equal... And it is not. 
+
+## Weighting the Seconds
+Let me explain: Having power over my neighbor, a normal dude who has a normal life that can be summarized as *"working an average job, and hanging out with friends"*, gives me a very small amount of power. But having power over the EU president is a completely different story; I could probably access any big fish in Europe, probably push them into making some laws for me... Whatever, so... Different person, different power... Therefore, power might be quantified as...
+
+$$
+P = \sum_{S}\left(\sum(D_{FS}) \cdot \frac{\sum(D_{FS})}{\sum(D_{S})} \cdot P_{S}\right)
+$$
+
+Where:
+- $P$ = Absolute power of First.
+- $S$ = Iterator through Seconds related to First.
+- $D_{FS}$ = Decisions taken by $S$ due to First's interests.
+- $D_{S}$ = Decisions taken by $S$.
+- $P_{S}$ = Absolute power of $S$.
+
+### Weighting each decision
+But... I have another idea... let me show you and then I'll explain:
+Therefore, power might be quantified as... (yeah sorry I had to do the show again)
+
+$$
+P = \sum_{S}(\sum(D \cdot P_{D}))
+$$
+
+Where:
+- $P$ = Absolute power of First.
+- bla bla bla
+- $P_{D}$ = The absolute amount of power the decision is exercising.
+
+So the previous formula: $P = \sum_{S}\left(\sum(D_{FS}) \cdot \frac{\sum(D_{FS})}{\sum(D_{S})} \cdot P_{S}\right)$ had the problem that each decision had the same importance... But they don't; I mean, asking for a tissue doesn't have the same impact on society as legalizing drugs. Different favors, different power exercised.
+
+Now we need to know how to quantify $P_{D}$, right? 
+
+#### The society
+Well, the way I can know how much power a decision exercises... is by counting how many people are being affected by this decision... (yeah yeah, I know I am making the same mistakes, but let me iterate until I have nothing to quantify). Therefore, $P_{D}$ might be quantified as...
+
+$$
+P_{D} = \sum(\text{Seconds Affected By } P_{D})
+$$
+
+##### Impact spread
+The formula lacks something... Affecting the president of a company is not the same as affecting my neighbor (the normal dude), is it? If you raise taxes or prices, the impact will spread through the clients of the company of the president... But my neighbor has to tank all the impact... And... the portion delegated from all people exercising power over him.
+But, this spreading... It doesn't matter who *"pays the price"*, the only thing that matters is *"the price being paid"*. Therefore, this does not change the equation. What shall be considered is...
+
+##### Weighting impact
+(I know... same thing as before... you told me... "You will want to weight it again!")
+
+An oil tax raise affects someone who moves by bike differently than someone who moves by car. They spend different amounts of oil, so they feel the change differently... Different people, different impact... Therefore, $P_{D}$ might be quantified as...
+
+$$
+P_{D} = \sum_{S}(W_{S})
+$$
+
+Where:
+- $P_{D}$ = (You already know that)
+- $S$ = Number of Seconds affected by the decision.
+- $W_{S}$ = The weight of the change that $S$ feels.
+
+Again... Let's quantify $W_{S}$ I guess...
