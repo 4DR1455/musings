@@ -1,3 +1,4 @@
+# Power Quantification
 As I take part in the governing bodies of some non-profit organizations with very ambitious presidents and board members, I thought it would be convenient to understand which projects are profitable for these organizations. But... Why make money from an organization if no one takes advantage of it? That means money is not what we actually seek in a "project's profit". But... Then, what do we seek? What could compound and let us (and our successors) grow endlessly and have a payback for each member? Power... maybe. I might lose a bet on this... I hope I don't.
 
 ## Definition of power/influence/whatever you want to call it
