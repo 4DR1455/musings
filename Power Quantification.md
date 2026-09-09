@@ -8,7 +8,7 @@ The **influence of a person over another** is the capacity of the first person t
 
 <b><i><u>Note 2:</u></i></b> This definition is based on various [definitions](https://dictionary.cambridge.org/dictionary/english/power) provided by the Cambridge Dictionary.
 
-# First thoughts
+## First thoughts
 How could I quantify something this abstract? It is not like I can use an "influmeter" (hahaha, like a thermometer -> influmeter. I know it is a very bad joke, my apologies). So my first approach is to assign a binary value if the condition is met; this way, the more dominant relations a person has, the more powerful they are... Therefore, power might be quantified as...
 $$
 PowerOfFirst = \sum(Seconds)
