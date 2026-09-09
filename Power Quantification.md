@@ -15,7 +15,7 @@ How could I quantify something this abstract? It is not like I can use an "influ
 That sounds good, I mean... a person who can move two people (themselves + another) has more power than one who can't... Therefore, power might be quantified as...
 
 $$
-\text{PowerOfFirst} = \sum(\text{Seconds})
+{PowerOfFirst} = \sum({Seconds})
 $$
 
 But that misses something... Sometimes a person is not fully powerful over another. What happens if First can force Second into doing some things in specific scenarios, but can't force them to do just anything in any scenario?! Is that still called power? So a question comes to mind... Can I quantify power between individuals?
@@ -28,7 +28,7 @@ But that misses something... Sometimes a person is not fully powerful over anoth
 So, as I want better precision than just the number of (forced or not) followers, I need to quantify how much power a person has over another... So, I'd need to count how many decisions are taken due to First's interests? That makes sense to me because when someone exercises power over another, they don't need to be present; just the thought of them would make the Second act in favor of First, and that would be a decision made due to First. So the power of First over Second is...
 
 $$
-\text{PowerOfFirstOverSecond} = \sum(\text{Second's Decisions Due To First})
+PowerOfFirstOverSecond = \sum(Second'sDecisionsDueToFirst)
 $$
 
 ## Weighted relations formula
