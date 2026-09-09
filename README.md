@@ -9,5 +9,6 @@ Also know you will see writings in the first person like this one. Yep, I'm talk
 # Discrepancies?
 If you read one of these files and find a fatal flaw in my logic, if you are into something similar, or if you just want to discuss, feel free to reach out. I'm always open to debate. [You can shoot me an email!](mailto:addegabas@gmail.com)
 # Enough bla bla bla... Go check it!
+
 Here are the links to the writings by their titles, along with a single sentence explaining what I am discussing:
 - 
