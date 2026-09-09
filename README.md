@@ -1,1 +1,7 @@
-# musings
+# What?
+As you can read at the title this is a place where I'd be posting my musings, the strange theories i think about and I'd like to share. Thoose can go from really tech things to very filosofical where no scince or maths are involved. This is litterally a place to avoid ideas and thinkings dying inside my mind before helping our society.
+# Why?
+As I am not famous... No one would come to take this ideas so I can store them here, and... I can show you my way of thinking, my exotic ideas, the challenges I like to take, and other things that I still don't know I'd like to share.
+# How?
+You will see lot of documents, I'm not hidding anything, you will probably see fromm documents only contining a title to documents larger than a newspaper article. Every document is an idea, a thought I've got at the bus, at a walk or, wherever. Also notice I' wont include every idea, ideas of I'd like to try professionally may not be published due to obious reasons.
+Also know you will see redactations in first person like this one, yep, I'm talking to myself, and I'm letting you pick into my thoughts, this is not formal and is not professional, this is a casual way I can show you things. **ANY** document will ever be finished, they will be more or less advanced, of course.
