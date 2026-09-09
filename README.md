@@ -1,3 +1,4 @@
+holakease
 # What?
 As you can read in the title, this is a place where I'd be posting my musings, the strange theories I think about and I'd like to share. Those can go from really technical things to very philosophical where no science or maths are involved. This is literally a place to avoid ideas and thoughts dying inside my mind before helping our society.
 # Why?
