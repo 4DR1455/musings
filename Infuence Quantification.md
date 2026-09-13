@@ -125,46 +125,46 @@ Now, the real world... We can't go and ask... What can we do? Let's see what peo
 I am the General Secretary of FIB Visiona, a student association meant to organize the annual career fair of the FIB (Barcelona School of Informatics). Let's calculate the influence that it has:
 
 **The faculty:** (Yes, you will have to trust my numbers, and yes, I'm kinda guessing them, but hey, it is an example, not a real thing; the correctness of the numbers doesn't matter at all.)
-- They include us in most of their business-college events ($W_{S} = 5\text{k \euro}$)
-- They give us a permanent space in a building ($W_{S} = 10\text{k \euro}$)
-- They do a public tender to buy our infrastructures ($W_{S} = 70\text{k \euro}$)
-- They spend the time of their employees attending to us ($W_{S} = 5\text{k \euro}$)
-- They do not buy brand positioning services ($W_{S} = 50\text{k \euro}$)
+- They include us in most of their business-college events ($W_{S} = 5\text{k}$€)
+- They give us a permanent space in a building ($W_{S} = 10\text{k}$€)
+- They do a public tender to buy our infrastructures ($W_{S} = 70\text{k}$€)
+- They spend the time of their employees attending to us ($W_{S} = 5\text{k}$€)
+- They do not buy brand positioning services ($W_{S} = 50\text{k}$€)
 
 **The companies:** (You'll trust my guessed numbers again, right?) *(Value per company)*
-- They spend their employees' time doing all the stuff to get into the fair ($W_{S} = 1.5\text{k \euro}$)
-- They have less HR work to do ($W_{S} = 10\text{k \euro}$)
-- They invite us to their events ($W_{S} = 5\text{k \euro}$)
-- They find more synergies with other associations ($W_{S} = 20\text{k \euro}$) *(I'm counting lots of things going from technical screening, brand positioning, subscriptions, sponsorships, or even hiring)*
+- They spend their employees' time doing all the stuff to get into the fair ($W_{S} = 1.5\text{k}$€)
+- They have less HR work to do ($W_{S} = 10\text{k}$€)
+- They invite us to their events ($W_{S} = 5\text{k}$€)
+- They find more synergies with other associations ($W_{S} = 20\text{k}$€) *(I'm counting lots of things going from technical screening, brand positioning, subscriptions, sponsorships, or even hiring)*
 
 **Fira de telecos:** They are the annual career fair, and we let them exchange days so they don't do the fair the same day as another telecommunication engineering fair.
-- Companies go to both fairs ($W_{S} = 60\text{k \euro}$) *(Yeah, they can't do the big thing we do 😎)*
+- Companies go to both fairs ($W_{S} = 60\text{k}$€) *(Yeah, they can't do the big thing we do 😎)*
 
 Soooooooooo
 
 We have an influence over the FIB of:
 
 $$
-I_{\text{FIB}} = 5\text{k} + 10\text{k} + 70\text{k} + 5\text{k} + 50\text{k} = 140\text{k} \euro
+I_{\text{FIB}} = 5\text{k} + 10\text{k} + 70\text{k} + 5\text{k} + 50\text{k} = 140\text{k}
 $$
 
 
 We have an influence over each company of:
 
 $$
-I_{C} = 1.5\text{k} + 10\text{k} + 5\text{k} + 20\text{k} = 36.5\text{k} \euro
+I_{C} = 1.5\text{k} + 10\text{k} + 5\text{k} + 20\text{k} = 36.5\text{k}
 $$
 
 We have an influence over Fira de telecos of:
 
 $$
-I_{T} = 60\text{k} \euro
+I_{T} = 60\text{k}
 $$
 
 Overall, FIB Visiona's influence score is... 
 
 $$
-I_{\text{FV}} = 140\text{k} + 36.5\text{k} + 60\text{k} = 236,500 \euro
+I_{\text{FV}} = 140\text{k} + 36.5\text{k} + 60\text{k} = 236,500
 $$ 
 
 I still can't know if that's a lot or ridiculous, but... It's a number!!
