@@ -143,21 +143,26 @@ I am the General Secretary of FIB Visiona, a student association meant to organi
 Soooooooooo
 
 We have an influence over the FIB of:
+
 $$
 I_{\text{FIB}} = 5\text{k} + 10\text{k} + 70\text{k} + 5\text{k} + 50\text{k} = 140\text{k} \euro
 $$
 
+
 We have an influence over each company of:
+
 $$
 I_{C} = 1.5\text{k} + 10\text{k} + 5\text{k} + 20\text{k} = 36.5\text{k} \euro
 $$
 
 We have an influence over Fira de telecos of:
+
 $$
 I_{T} = 60\text{k} \euro
 $$
 
 Overall, FIB Visiona's influence score is... 
+
 $$
 I_{\text{FV}} = 140\text{k} + 36.5\text{k} + 60\text{k} = 236,500 \euro
 $$ 
