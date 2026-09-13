@@ -124,21 +124,21 @@ Now, the real world... We can't go and ask... What can we do? Let's see what peo
 ### An example:
 I am the General Secretary of FIB Visiona, a student association meant to organize the annual career fair of the FIB (Barcelona School of Informatics). Let's calculate the influence that it has:
 
-**The faculty:** (Yes, you will have to trust my numbers, and yes, I'm kinda guessing them, but hey, it is an example, not a real thing; the correctness of the numbers doesn't matter at all.)
-- They include us in most of their business-college events ($W_{S} = 5\text{k€}$)
-- They give us a permanent space in a building ($W_{S} = 10\text{k€}$)
-- They do a public tender to buy our infrastructures ($W_{S} = 70\text{k€}$)
-- They spend the time of their employees attending to us ($W_{S} = 5\text{k€}$)
-- They do not buy brand positioning services ($W_{S} = 50\text{k€}$)
+1. **The faculty:** (Yes, you will have to trust my numbers, and yes, I'm kinda guessing them, but hey, it is an example, not a real thing; the correctness of the numbers doesn't matter at all.)
+	1. They include us in most of their business-college events ($W_{S} = 5\text{k€}$)
+	2. They give us a permanent space in a building ($W_{S} = 10\text{k€}$)
+	3. They do a public tender to buy our infrastructures ($W_{S} = 70\text{k€}$)
+	4. They spend the time of their employees attending to us ($W_{S} = 5\text{k€}$)
+	5. They do not buy brand positioning services ($W_{S} = 50\text{k€}$)
 
-**The companies:** (You'll trust my guessed numbers again, right?) *(Value per company)*
-- They spend their employees' time doing all the stuff to get into the fair ($W_{S} = 1.5\text{k€}$)
-- They have less HR work to do ($W_{S} = 10\text{k€}$)
-- They invite us to their events ($W_{S} = 5\text{k€}$)
-- They find more synergies with other associations ($W_{S} = 20\text{k€}$) *(I'm counting lots of things going from technical screening, brand positioning, subscriptions, sponsorships, or even hiring)*
+2. **The companies:** (You'll trust my guessed numbers again, right?) *(Value per company)*
+	1. They spend their employees' time doing all the stuff to get into the fair ($W_{S} = 1.5\text{k€}$)
+	2. They have less HR work to do ($W_{S} = 10\text{k€}$)
+	3. They invite us to their events ($W_{S} = 5\text{k€}$)
+	4. They find more synergies with other associations ($W_{S} = 20\text{k€}$) *(I'm counting lots of things going from technical screening, brand positioning, subscriptions, sponsorships, or even hiring)*
 
-**Fira de telecos:** They are the annual career fair, and we let them exchange days so they don't do the fair the same day as another telecommunication engineering fair.
-- Companies go to both fairs ($W_{S} = 60\text{k€}$) *(Yeah, they can't do the big thing we do 😎)*
+3. **Fira de telecos:** They are the annual career fair, and we let them exchange days so they don't do the fair the same day as another telecommunication engineering fair.
+	1. Companies go to both fairs ($W_{S} = 60\text{k€}$) *(Yeah, they can't do the big thing we do 😎)*
 
 Soooooooooo
 
