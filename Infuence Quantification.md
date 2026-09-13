@@ -217,6 +217,7 @@ $$\Phi(v_j) = m_j \sum_{i=1}^{\vert{}V\vert{}} e^{-\left(\frac{d(v_i, v_j)}{\sig
 ### 2. Teoria de l'Entropia de Transferència
 
 Mesura la taxa d'influència causal directa d'un procés sobre un altre restant la història prèvia del receptor (en bits d'incertesa eliminada):
+
 $$T_{J \to I} = \sum p\left(i_{t+1}, i_t^{(k)}, j_t^{(l)}\right) \log_2 \left( \frac{p\left(i_{t+1} \mid i_t^{(k)}, j_t^{(l)}\right)}{p\left(i_{t+1} \mid i_t^{(k)}\right)} \right)$$
 
 ### 3. Teoria Axiomàtica del Valor Marginal (Valor de Shapley)
