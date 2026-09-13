@@ -142,20 +142,20 @@ I am the General Secretary of FIB Visiona, a student association meant to organi
 
 Soooooooooo
 
-We have an influence over the FIB of:
+1. We have an influence over the FIB of:
 
 $$
 I_{\text{FIB}} = 5\text{k} + 10\text{k} + 70\text{k} + 5\text{k} + 50\text{k} = 140\text{k€}
 $$
 
 
-We have an influence over each company of:
+2. We have an influence over each company of:
 
 $$
 I_{C} = 1.5\text{k} + 10\text{k} + 5\text{k} + 20\text{k} = 36.5\text{k€}
 $$
 
-We have an influence over Fira de telecos of:
+3. We have an influence over Fira de telecos of:
 
 $$
 I_{T} = 60\text{k€}
