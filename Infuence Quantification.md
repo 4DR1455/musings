@@ -145,7 +145,7 @@ Soooooooooo
 We have an influence over the FIB of:
 
 $$
-I_{\text{FIB}} = 5\text{k} + 10\text{k} + 70\text{k} + 5\text{k} + 50\text{k} = 140\text{k}
+I_{\text{FIB}} = 5\text{k} + 10\text{k} + 70\text{k} + 5\text{k} + 50\text{k} = 140\text{k€}
 $$
 
 
