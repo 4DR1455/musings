@@ -11,4 +11,5 @@ Also know you will see writings in the first person like this one. Yep, I'm talk
 If you read one of these files and find a fatal flaw in my logic, if you are into something similar, or if you just want to discuss, feel free to reach out. I'm always open to debate. [You can shoot me an email!](mailto:addegabas@gmail.com)
 # Enough bla bla bla... Go check it!
 Here are the links to the writings by their titles, along with a single sentence explaining what I am discussing:
-- [Infuence Quantification](https://github.com/4DR1455/musings/blob/main/Power%20Quantification.md) : In these writing I explore a way to quantify influence in a very specific context of a non-profit organization in a specific enviroment.
+- [Infuence Quantification](https://github.com/4DR1455/musings/blob/main/Power%20Quantification.md) : In this writing I explore a way to quantify influence of a person, company, or other organization.
+- [Optimizing Bussines Strategy](https://google.com) : In this writing I explore a way of optimizing bussiness strategy development.
